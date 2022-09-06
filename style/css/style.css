@@ -1,0 +1,84 @@
+.btn-head{
+    border: 2px solid #289BDE;
+    color: #289BDE;
+    
+}
+.image-h{
+    height: 400px;
+    background-color: aliceblue;
+}
+.texts h5{
+    font-size: 50px;
+}
+.containers{
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.course{
+    margin-bottom: 10px;
+    margin-right: 2px;
+    
+}
+.course img{
+    height: auto;
+    width: 100px;
+    margin-right: 10px;
+
+}
+.course-area button{
+    /* height:30px; 
+    width:80px;  */
+    margin: 10px -60px; 
+    position:relative;
+    top:50%; 
+    left:50%;
+    
+}
+.institute-items{
+    background-color: #F4FAFD;
+}
+.institute-items img{
+    height: 555px;
+    width: 370px;
+    
+
+}
+.register-items{
+    background-color: #289BDE;
+    margin-top: 30px;
+    
+}
+.regi-text{
+    margin-top: 10px;
+}
+.regi-btn{
+    text-align: center;
+    margin-top: 30px;
+}
+.students button{
+    margin: 5px -50px; 
+    position:relative;
+    top:50%; 
+    left:50%;
+
+}
+/* .feedback-item{
+    background-image:url('/images/company/company-1.png');
+} */
+
+.trusted img{
+    height: 30px;
+    width: 100px;
+}
+.footer-all{
+    background-color: black;
+    color: white;
+    height: 300px;
+}
+.footer-end{
+   
+   padding: 50px; 
+    
+
+
+}
